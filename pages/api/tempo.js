@@ -1,5 +1,3 @@
-import dynamic from "next/dynamic";
-
 function tempo(request, reposne) {
   constDynmaicDate = new date();
 
